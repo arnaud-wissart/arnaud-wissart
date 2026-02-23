@@ -10,7 +10,15 @@ Ce projet démontre une stack full-stack moderne, une API proprement structurée
 
 → Repo : [BikeVoyager](https://github.com/arnaud-wissart/BikeVoyager)
 
-<!-- Screenshot placeholder: BikeVoyager -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="900"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager2.png" width="850"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" width="850"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager4.png" width="850"/>
+</p>
 
 ### OnigiriShop
 Application e-commerce autour d’un catalogue produit avec parcours de consultation et logique métier de boutique.
@@ -18,7 +26,11 @@ Ce projet met en avant la structuration back-end (.NET), l’intégration front,
 
 → Repo : [OnigiriShop](https://github.com/arnaud-wissart/OnigiriShop)
 
-<!-- Screenshot placeholder: OnigiriShop -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/onigiri1.png" width="900"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/onigiri2.png" width="850"/>
+</p>
 
 ### NVConso
 Outil orienté suivi/analyse de consommation avec visualisation et exploitation de données métier.
