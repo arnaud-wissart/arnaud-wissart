@@ -11,12 +11,12 @@ Ce projet démontre une stack full-stack moderne, une API proprement structurée
 → Repo : [BikeVoyager](https://github.com/arnaud-wissart/BikeVoyager)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager2.png" width="500"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager2.png" width="700"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" width="300" />
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager4.png" width="300" />
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" width="250" />
+  <div width="50"></div>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager4.png" width="250" />
 </p>
 
 ### OnigiriShop
