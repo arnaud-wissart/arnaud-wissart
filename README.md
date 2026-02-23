@@ -7,14 +7,14 @@ Je conçois des applications web robustes avec **.NET 8/9/10**, de l’API jusqu
 ### BikeVoyager
 Application orientée mobilité/voyage à vélo, pensée pour centraliser des données utiles autour des parcours et des usages terrain.
 Ce projet démontre une stack full-stack moderne, une API proprement structurée et une attention portée à la maintenabilité et aux tests.
-→ Repo : [github.com/arnaud-wissart/BikeVoyager](/arnaud-wissart/BikeVoyager)
+→ Repo : (/arnaud-wissart/BikeVoyager)
 
 <!-- Screenshot placeholder: BikeVoyager -->
 
 ### OnigiriShop
 Application e-commerce autour d’un catalogue produit avec parcours de consultation et logique métier de boutique.
 Ce projet met en avant la structuration back-end (.NET), l’intégration front, et des pratiques de qualité (validation, tests, CI).
-→ Repo : [github.com/arnaud-wissart/OnigiriShop](/arnaud-wissart/OnigiriShop)
+→ Repo : [github.com/arnaud-wissart/OnigiriShop]
 
 <!-- Screenshot placeholder: OnigiriShop -->
 
