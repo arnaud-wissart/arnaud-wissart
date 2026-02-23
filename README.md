@@ -7,28 +7,28 @@ Je conçois des applications web robustes avec **.NET 8/9/10**, de l’API jusqu
 ### BikeVoyager
 Application orientée mobilité/voyage à vélo, pensée pour centraliser des données utiles autour des parcours et des usages terrain.
 Ce projet démontre une stack full-stack moderne, une API proprement structurée et une attention portée à la maintenabilité et aux tests.
-→ Repo : (/arnaud-wissart/BikeVoyager)
+→ Repo : [github.com/arnaud-wissart/BikeVoyager](https://github.com/arnaud-wissart/BikeVoyager)
 
 <!-- Screenshot placeholder: BikeVoyager -->
 
 ### OnigiriShop
 Application e-commerce autour d’un catalogue produit avec parcours de consultation et logique métier de boutique.
 Ce projet met en avant la structuration back-end (.NET), l’intégration front, et des pratiques de qualité (validation, tests, CI).
-→ Repo : [github.com/arnaud-wissart/OnigiriShop]
+→ Repo : [github.com/arnaud-wissart/OnigiriShop](https://github.com/arnaud-wissart/OnigiriShop)
 
 <!-- Screenshot placeholder: OnigiriShop -->
 
 ### NVConso
 Outil orienté suivi/analyse de consommation avec visualisation et exploitation de données métier.
 Ce projet démontre la capacité à modéliser les données, exposer des APIs exploitables et fiabiliser les livraisons par l’automatisation.
-→ Repo : [github.com/arnaud-wissart/NVConso](/arnaud-wissart/NVConso)
+→ Repo : [github.com/arnaud-wissart/NVConso](https://github.com/arnaud-wissart/NVConso)
 
 <!-- Screenshot placeholder: NVConso -->
 
 ### Probabilités Loto / EuroMillions
 Projet de simulation et d’analyse probabiliste appliqué aux tirages Loto/EuroMillions.
 Ce projet illustre la rigueur algorithmique, la lisibilité du code et la validation des résultats par des tests ciblés.
-→ Repo : [github.com/arnaud-wissart/Probabilites-Loto-EuroMillions](/arnaud-wissart/Probabilites-Loto-EuroMillions)
+→ Repo : [github.com/arnaud-wissart/Probabilites-Loto-EuroMillions](https://github.com/arnaud-wissart/Probabilites-Loto-EuroMillions)
 
 <!-- Screenshot placeholder: Probabilités Loto / EuroMillions -->
 
@@ -54,5 +54,5 @@ Ce projet illustre la rigueur algorithmique, la lisibilité du code et la valida
 
 ## Contact
 
-- LinkedIn : [LinkedIn]()
+- LinkedIn : [LinkedIn](https://www.linkedin.com/in/arnaud-wissart/)
 - Email : [arnaud.wissart@email.com](mailto:arnaud.wissart@email.com)
