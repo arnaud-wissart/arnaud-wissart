@@ -13,9 +13,9 @@ Ce projet démontre une stack full-stack moderne, une API proprement structurée
 <p align="center">
   <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="500"/>
   <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager2.png" width="500"/>
-  <br/>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" width="250" />
-  <div width="50"></div>
+  <span width="50"></span>
   <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager4.png" width="250" />
 </p>
 
