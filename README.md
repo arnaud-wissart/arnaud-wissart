@@ -15,21 +15,23 @@ Ce projet démontre une stack full-stack moderne, une API proprement structurée
 ### OnigiriShop
 Application e-commerce autour d’un catalogue produit avec parcours de consultation et logique métier de boutique.
 Ce projet met en avant la structuration back-end (.NET), l’intégration front, et des pratiques de qualité (validation, tests, CI).
-→ Repo : [github.com/arnaud-wissart/OnigiriShop](https://github.com/arnaud-wissart/OnigiriShop)
+
+→ Repo : [OnigiriShop](https://github.com/arnaud-wissart/OnigiriShop)
 
 <!-- Screenshot placeholder: OnigiriShop -->
 
 ### NVConso
 Outil orienté suivi/analyse de consommation avec visualisation et exploitation de données métier.
 Ce projet démontre la capacité à modéliser les données, exposer des APIs exploitables et fiabiliser les livraisons par l’automatisation.
-→ Repo : [github.com/arnaud-wissart/NVConso](https://github.com/arnaud-wissart/NVConso)
+
+→ Repo : [NVConso](https://github.com/arnaud-wissart/NVConso)
 
 <!-- Screenshot placeholder: NVConso -->
 
 ### Probabilités Loto / EuroMillions
 Projet de simulation et d’analyse probabiliste appliqué aux tirages Loto/EuroMillions.
 Ce projet illustre la rigueur algorithmique, la lisibilité du code et la validation des résultats par des tests ciblés.
-→ Repo : [github.com/arnaud-wissart/Probabilites-Loto-EuroMillions](https://github.com/arnaud-wissart/Probabilites-Loto-EuroMillions)
+→ Repo : [Probabilites Loto & EuroMillions](https://github.com/arnaud-wissart/Proba-Loto-EuroMillions)
 
 <!-- Screenshot placeholder: Probabilités Loto / EuroMillions -->
 
