@@ -11,9 +11,9 @@ Ce projet démontre une stack full-stack moderne, une API proprement structurée
 → Repo : [BikeVoyager](https://github.com/arnaud-wissart/BikeVoyager)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="800"/>
   <span width="50"></span>
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager4.png" height="300" />
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager4.png" height="400" />
 </p>
 
 ### OnigiriShop
