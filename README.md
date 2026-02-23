@@ -31,6 +31,7 @@ Ce projet démontre la capacité à modéliser les données, exposer des APIs ex
 ### Probabilités Loto / EuroMillions
 Projet de simulation et d’analyse probabiliste appliqué aux tirages Loto/EuroMillions.
 Ce projet illustre la rigueur algorithmique, la lisibilité du code et la validation des résultats par des tests ciblés.
+
 → Repo : [Probabilites Loto & EuroMillions](https://github.com/arnaud-wissart/Proba-Loto-EuroMillions)
 
 <!-- Screenshot placeholder: Probabilités Loto / EuroMillions -->
