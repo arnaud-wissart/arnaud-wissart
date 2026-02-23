@@ -59,4 +59,4 @@ Ce projet illustre la rigueur algorithmique, la lisibilité du code et la valida
 ## Contact
 
 - LinkedIn : [LinkedIn](https://www.linkedin.com/in/arnaud-wissart/)
-- Email : [arnaud.wissart@email.com](mailto:arnaud.wissart@email.com)
+- Email : [arnaud.wissart@live.fr](mailto:arnaud.wissart@live.fr)
