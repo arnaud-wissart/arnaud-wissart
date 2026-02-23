@@ -23,9 +23,9 @@ Ce projet met en avant la structuration back-end (.NET), l’intégration front,
 → Repo : [OnigiriShop](https://github.com/arnaud-wissart/OnigiriShop)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri1.png" height="400" />
-  <br/>
   <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri2.png" width="850"/>
+  <span width="50"></span>  
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri1.png" height="400" />
 </p>
 
 ### NVConso
