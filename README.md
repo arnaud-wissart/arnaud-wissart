@@ -11,7 +11,7 @@ Ce projet démontre une stack full-stack moderne, une API proprement structurée
 → Repo : [BikeVoyager](https://github.com/arnaud-wissart/BikeVoyager)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="700"/>
   <span width="50"></span>
   <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager4.png" height="400" />
 </p>
@@ -23,7 +23,7 @@ Ce projet met en avant la structuration back-end (.NET), l’intégration front,
 → Repo : [OnigiriShop](https://github.com/arnaud-wissart/OnigiriShop)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri2.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri2.png" width="700"/>
   <span width="50"></span>  
   <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri1.png" height="400" />
 </p>
