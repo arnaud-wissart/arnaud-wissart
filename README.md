@@ -30,7 +30,7 @@ Démontre une architecture full-stack moderne (.NET + React), API structurée, q
 → Repo : https://github.com/arnaud-wissart/BikeVoyager
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/home.png" width="850"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="800"/>
 </p>
 
 ---
