@@ -57,6 +57,10 @@ Montre la capacité à interfacer du matériel, modéliser des données et livre
 
 → Repo : https://github.com/arnaud-wissart/NVConso
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/NVConso/main/docs/screenshots/NVConso.png" width="400"/>
+</p>
+
 ---
 
 ### 📊 Probabilités Loto / EuroMillions  
