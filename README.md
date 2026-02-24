@@ -44,7 +44,9 @@ Illustration d’une application .NET structurée, validée par tests et CI.
 → Repo : https://github.com/arnaud-wissart/OnigiriShop
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/catalog.png" width="850"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri1.png" width="800"/>
+  <span width="20"></span>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri3.png" height="400"/>
 </p>
 
 ---
