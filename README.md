@@ -32,7 +32,7 @@ Démontre une architecture full-stack moderne (.NET + React), API structurée, q
 <p align="center">
   <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="800"/>
   <span width="20"></span>
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" heigth="400"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" height="400"/>
 </p>
 
 ---
