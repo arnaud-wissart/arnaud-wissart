@@ -11,7 +11,7 @@ Ce projet démontre une stack full-stack moderne, une API proprement structurée
 → Repo : [BikeVoyager](https://github.com/arnaud-wissart/BikeVoyager)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="800"/>
   <span width="50"></span>
   <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager4.png" height="400" />
 </p>
@@ -23,7 +23,7 @@ Ce projet met en avant la structuration back-end (.NET), l’intégration front,
 → Repo : [OnigiriShop](https://github.com/arnaud-wissart/OnigiriShop)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri2.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri2.png" width="800"/>
   <span width="50"></span>  
   <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri1.png" height="400" />
 </p>
@@ -34,7 +34,9 @@ Ce projet démontre la capacité à modéliser les données, exposer des APIs ex
 
 → Repo : [NVConso](https://github.com/arnaud-wissart/NVConso)
 
-<!-- Screenshot placeholder: NVConso -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arnaud-wissart/NVConso/main/docs/screenshots/NVConso.png" width="300"/>
+</p>
 
 ### Probabilités Loto / EuroMillions
 Projet de simulation et d’analyse probabiliste appliqué aux tirages Loto/EuroMillions.
