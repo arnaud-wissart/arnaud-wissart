@@ -1,23 +1,27 @@
 # Arnaud Wissart  
-### Développeur .NET Full-Stack  
-Modernisation d’applications • Qualité logicielle • Industrialisation
+### Senior .NET Developer — Architecture, Modernisation & CI/CD  
 
-Je conçois et fais évoluer des applications professionnelles en **.NET (Framework à .NET 8/9/10)**, de l’API jusqu’au front-end.  
-J’interviens aussi bien sur des projets neufs que sur la **reprise, refonte et migration d’applications existantes**.
+Je conçois, modernise et industrialise des applications professionnelles en .NET, 
+de l’API jusqu’au front-end, avec une exigence forte sur la qualité, 
+la maintenabilité et l’automatisation.
+
+J’interviens aussi bien sur des projets neufs que sur la reprise et la migration 
+d’applications .NET Framework vers des architectures modernes.
 
 Mon approche : code maintenable, architecture claire, tests automatisés et déploiement maîtrisé.
 
 ---
 
-## Ce que je fais
+## Expertise
 
-- Développement d’applications web et APIs en C# / ASP.NET Core  
-- Reprise et modernisation d’applications .NET Framework  
-- Migration vers .NET moderne  
-- Structuration d’architecture (séparation des couches, testabilité, SOLID)  
-- Mise en place de CI/CD et automatisation  
-- Conteneurisation avec Docker  
-- Tests unitaires, intégration et end-to-end  
+- ASP.NET Core (.NET 8/9/10), Web API
+- Front (javascript/jQuery/React/Angular)
+- Modernisation d’applications .NET Framework
+- Architecture claire (séparation des couches, SOLID, testabilité)
+- Refactoring et réduction de dette technique
+- CI/CD (GitHub Actions, runners self-hosted)
+- Docker & conteneurisation
+- Tests unitaires, intégration et end-to-end
 
 ---
 
@@ -71,30 +75,16 @@ Démontre la rigueur, la structuration backend et l’automatisation.
 
 ---
 
-## Expertise & Modernisation
+## Méthode
 
-Je suis à l’aise avec :
-
-- Applications .NET Framework existantes  
-- Refactoring progressif  
-- Réduction de dette technique  
-- Migration vers .NET moderne  
-- Stabilisation d’applications critiques  
-- Analyse et sécurisation de code legacy  
-
----
-
-## Méthode de travail
-
-- CI/CD automatisée (GitHub Actions)  
-- Tests adaptés au contexte (unitaires, intégration, E2E)  
-- Documentation claire  
 - Code lisible et maintenable  
-- Approche orientée pérennité
+- Tests adaptés au contexte  
+- CI/CD automatisée  
+- Documentation claire  
+- Approche orientée pérennité  
 
 ---
 
 ## Contact
 
 LinkedIn : https://www.linkedin.com/in/arnaud-wissart-67a2a065/  
-Email : arnaud.wissart@live.fr
