@@ -34,9 +34,9 @@ Démontre une architecture full-stack moderne (.NET + React), API structurée, q
 → Repo : https://github.com/arnaud-wissart/BikeVoyager
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="800"/>
   <span width="20"></span>
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" height="400"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" height="400"/>
 </p>
 
 ---
@@ -48,9 +48,9 @@ Illustration d’une application .NET structurée, validée par tests et CI.
 → Repo : https://github.com/arnaud-wissart/OnigiriShop
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri2.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/OnigiriShop/main/docs/screenshots/onigiri2.png" width="800"/>
   <span width="20"></span>
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/OnigiriShop/main/docs/screenshots/onigiri1.png" height="400"/>
+  <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/OnigiriShop/main/docs/screenshots/onigiri1.png" height="400"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ Montre la capacité à interfacer du matériel, modéliser des données et livre
 → Repo : https://github.com/arnaud-wissart/NVConso
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arnaud-wissart/NVConso/main/docs/screenshots/NVConso.png" width="433" />
+  <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/NVConso/main/docs/screenshots/NVConso.png" width="433" />
 </p>
 
 ---
