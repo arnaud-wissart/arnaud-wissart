@@ -92,6 +92,14 @@ Démontre la capacité à produire une application front moderne avec de la qual
 Repo : https://github.com/arnaud-wissart-lab/Tetrigular  
 Démo : https://tetris.arnaudwissart.fr
 
+<details>
+  <summary>Voir une capture</summary>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/tetrigular/main/docs/screenshots/Animation.gif" width="600" />
+  </p>
+</details>
+
 ---
 
 ### ⚡ NVConso
