@@ -73,7 +73,7 @@ Application e-commerce (logique métier + back-office).
 Illustration d’une application .NET structurée, validée par tests et CI.
 
 Repo : https://github.com/arnaud-wissart-lab/OnigiriShop  
-Démo : **TODO: URL démo**
+Démo : https://onigirishop.onrender.com/
 
 <details>
   <summary>Voir des captures</summary>
