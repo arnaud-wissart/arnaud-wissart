@@ -62,7 +62,7 @@ Démo : https://bike.arnaudwissart.fr
   <p align="center">
     <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="800"/>
     <br/>
-    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" width="800"/>
+    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" height="250"/>
   </p>
 </details>
 
