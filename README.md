@@ -79,8 +79,7 @@ Démo : https://onigirishop.onrender.com/
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/OnigiriShop/main/docs/screenshots/onigiri2.png" width="800"/>
-    <br/>
-    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/OnigiriShop/main/docs/screenshots/onigiri1.png" width="800"/>
+    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/OnigiriShop/main/docs/screenshots/onigiri1.png" height="400"/>
   </p>
 </details>
 
