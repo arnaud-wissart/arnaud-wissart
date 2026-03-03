@@ -16,9 +16,9 @@ d’applications .NET Framework vers des architectures modernes.
 
 | Projet | Démo | Repo |
 |---|---|---|
-| 🚲 BikeVoyager | **TODO: URL démo** | https://github.com/arnaud-wissart-lab/BikeVoyager |
-| 🍙 OnigiriShop | **TODO: URL démo** *(ex: onrender)* | https://github.com/arnaud-wissart-lab/OnigiriShop |
-| 🎮 Tetrigular | **TODO: URL démo** | https://github.com/arnaud-wissart-lab/Tetrigular |
+| 🚲 BikeVoyager | https://bike.arnaudwissart.fr | https://github.com/arnaud-wissart-lab/BikeVoyager |
+| 🍙 OnigiriShop | https://onigirishop.onrender.com/ | https://github.com/arnaud-wissart-lab/OnigiriShop |
+| 🎮 Tetrigular | https://tetris.arnaudwissart.fr | https://github.com/arnaud-wissart-lab/Tetrigular |
 | 📊 Proba Loto / EuroMillions | https://loto.arnaudwissart.fr | https://github.com/arnaud-wissart-lab/Proba-loto-euromillions |
 | ⚡ NVConso | *(Windows app — pas de démo web)* | https://github.com/arnaud-wissart-lab/NVConso |
 
