@@ -54,7 +54,7 @@ Application web orientée mobilité et parcours.
 Démontre une architecture full-stack moderne (.NET + React), une API structurée, de la qualité et une CI/CD propre.
 
 Repo : https://github.com/arnaud-wissart-lab/BikeVoyager  
-Démo : **TODO: URL démo**
+Démo : https://bike.arnaudwissart.fr
 
 <details>
   <summary>Voir des captures</summary>
@@ -92,7 +92,7 @@ Jeu Tetris-like orienté gameplay “clean” (moteur de jeu découplé, archite
 Démontre la capacité à produire une application front moderne avec de la qualité.
 
 Repo : https://github.com/arnaud-wissart-lab/Tetrigular  
-Démo : **TODO: URL démo**
+Démo : https://tetris.arnaudwissart.fr
 
 ---
 
