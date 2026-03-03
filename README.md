@@ -112,7 +112,7 @@ Repo : https://github.com/arnaud-wissart-lab/NVConso
   <summary>Voir une capture</summary>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/NVConso/main/docs/screenshots/NVConso.png" width="600" />
+    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/NVConso/main/docs/screenshots/NVConso.png" width="400" />
   </p>
 </details>
 
