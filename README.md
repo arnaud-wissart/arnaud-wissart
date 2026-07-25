@@ -12,10 +12,11 @@ d’applications .NET Framework vers des architectures modernes.
 
 ---
 
-## 🚀 Démos en ligne (1 clic)
+## 🚀 Démos et versions accessibles
 
-| Projet | Démo | Repo |
+| Projet | Accès | Repo |
 |---|---|---|
+| 🏭 LayupPulse | [Version Windows 0.4.0](https://github.com/arnaud-wissart-lab/layup-pulse/releases/tag/v0.4.0) | https://github.com/arnaud-wissart-lab/layup-pulse |
 | 🚲 BikeVoyager | https://bike.arnaudwissart.fr | https://github.com/arnaud-wissart-lab/BikeVoyager |
 | 🍙 OnigiriShop | https://onigirishop.onrender.com/ | https://github.com/arnaud-wissart-lab/OnigiriShop |
 | 🎮 Tetrigular | https://tetris.arnaudwissart.fr | https://github.com/arnaud-wissart-lab/Tetrigular |
@@ -48,6 +49,33 @@ d’applications .NET Framework vers des architectures modernes.
 ---
 
 ## Projets en vitrine (détails)
+
+### 🏭 LayupPulse
+
+Démonstrateur Windows .NET 10/WPF consacré à l’architecture d’une supervision
+autour d’une cellule fictive de drapage composite. L’application sépare le
+simulateur déterministe et l’interface par gRPC, borne le traitement de la
+télémétrie, persiste un historique local SQLite et produit des rapports de
+cycle.
+
+La version 0.4.0 ajoute l’aperçu paginé, l’impression Windows et l’export XPS.
+Le PDF reste disponible uniquement par une imprimante Windows compatible.
+
+LayupPulse utilise exclusivement des données simulées et ne commande aucun
+matériel réel.
+
+- Repo : https://github.com/arnaud-wissart-lab/layup-pulse
+- Version Windows : https://github.com/arnaud-wissart-lab/layup-pulse/releases/tag/v0.4.0
+
+<details>
+  <summary>Voir une capture</summary>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/layup-pulse/main/docs/screenshots/overview-running.png" alt="LayupPulse pendant un cycle simulé, avec vue 3D fictive, télémétrie et tendances" width="800" />
+  </p>
+</details>
+
+---
 
 ### 🚲 BikeVoyager
 Application web orientée mobilité et parcours.
