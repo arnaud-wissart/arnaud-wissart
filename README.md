@@ -1,160 +1,147 @@
 # Arnaud Wissart
-### Senior .NET Developer — Architecture, Modernisation & CI/CD
 
-Je conçois, modernise et industrialise des applications professionnelles en .NET,
-de l’API jusqu’au front-end, avec une exigence forte sur la qualité,
-la maintenabilité et l’automatisation (tests + CI/CD).
+### Développeur .NET senior — applications métier, modernisation & CI/CD
 
-Je travaille aussi bien sur des projets neufs que sur la reprise et la migration
-d’applications .NET Framework vers des architectures modernes.
+Je conçois, modernise et industrialise des applications professionnelles en **C# / .NET**, de l’API au front-end, avec une attention particulière portée à la **maintenabilité**, aux **tests**, à la **sécurité** et à la **livraison reproductible**.
 
-**Organisation (Lab) :** tous mes projets vitrine sont regroupés ici → https://github.com/arnaud-wissart-lab
+Mon parcours couvre aussi bien la création de nouveaux produits que la reprise de systèmes existants, la migration de patrimoines .NET Framework vers des stacks modernes et l’intégration progressive de pratiques CI/CD.
+
+**Portfolio :** https://arnaudwissart.fr  
+**LinkedIn :** https://www.linkedin.com/in/arnaud-wissart-67a2a065/  
+**Organisation de projets publics :** https://github.com/arnaud-wissart-lab
 
 ---
 
-## 🚀 Démos et versions accessibles
+## Projets principaux
 
-| Projet | Accès | Repo |
+### BikeVoyager
+**Application full-stack .NET 10 / React de planification d’itinéraires vélo.**
+
+BikeVoyager est aujourd’hui mon projet public le plus complet pour illustrer une architecture full-stack moderne : API ASP.NET Core versionnée, React/TypeScript, moteur de routage Valhalla, POI via Overpass, synchronisation Google Drive / OneDrive, sécurité applicative, tests et déploiement automatisé.
+
+Points clés :
+- ASP.NET Core `.NET 10`, Minimal APIs et architecture Domain / Application / Infrastructure ;
+- React, TypeScript, Vite, Mantine et Cesium ;
+- PostgreSQL, Valhalla, Overpass, Google Drive et Microsoft Graph ;
+- CORS contrôlé, origin guard, cookies HttpOnly, rate limiting et headers de sécurité ;
+- xUnit, Vitest et Playwright E2E ;
+- .NET Aspire, Docker Compose et GitHub Actions ;
+- déploiement reproductible sur runner Linux self-hosted.
+
+**Démo :** https://bike.arnaudwissart.fr  
+**Code :** https://github.com/arnaud-wissart-lab/BikeVoyager
+
+---
+
+### BlazorEnterpriseStarter
+**Socle applicatif métier Blazor / ASP.NET Core prêt à être repris.**
+
+Starter .NET structuré autour d’une Blazor Web App, d’une API ASP.NET Core séparée, de contrats partagés et d’un module backlog complet avec recherche, filtres, pagination et CRUD.
+
+Points clés :
+- Blazor Web App + API ASP.NET Core séparée ;
+- EF Core / SQLite ;
+- design system et composants réutilisables ;
+- .NET Aspire et Docker ;
+- tests unitaires, composants et E2E Playwright ;
+- GitHub Actions pour compilation, tests et validation Docker.
+
+**Démo :** https://blazor.arnaudwissart.fr/  
+**Code :** https://github.com/arnaud-wissart-lab/blazor-enterprise-starter
+
+---
+
+### PrivateListings
+**Application métier .NET 10 / Blazor pour communautés privées et entraide locale.**
+
+MVP fonctionnel centré sur les annonces privées, la messagerie, la modération et l’administration, avec une architecture séparant domaine, application, infrastructure et interface.
+
+Points clés :
+- .NET 10, ASP.NET Core / Blazor Web App ;
+- EF Core 10 / PostgreSQL ;
+- .NET Aspire ;
+- authentification, changement d’email et réinitialisation du mot de passe ;
+- annonces, messagerie interne, signalements, modération, back-office et audit logs ;
+- Docker Compose et CI/CD ;
+- tests unitaires, intégration PostgreSQL et E2E Playwright.
+
+**Code :** https://github.com/arnaud-wissart-lab/PrivateListings
+
+---
+
+### Orymessa
+**Produit logiciel commercial privé en préparation pour Steam.**
+
+Orymessa est une application desktop multiplateforme développée en **.NET / Avalonia**, destinée à Windows, Linux et SteamOS. Le projet est volontairement privé car il est conçu pour être commercialisé.
+
+Il me permet de travailler sur un cycle produit beaucoup plus large que le seul développement fonctionnel : architecture, UX souris/clavier/tactile/manette, lecture multimédia, persistance sécurisée, enregistrement et planification, localisation, packaging autonome, CI/CD et préparation Steamworks.
+
+**Code source privé en vue de la commercialisation.**
+
+---
+
+## Desktop / industrie
+
+### LayupPulse
+Démonstrateur Windows `.NET 10 / WPF` consacré à l’architecture d’une supervision autour d’une **cellule fictive** de drapage composite.
+
+Le projet sépare simulateur et interface via gRPC, traite une télémétrie simulée, persiste l’historique dans SQLite, produit des rapports de cycle et dispose d’un packaging Windows autonome.
+
+LayupPulse utilise uniquement des données simulées et **ne commande aucun équipement réel**.
+
+**Version Windows :** https://github.com/arnaud-wissart-lab/layup-pulse/releases/tag/v0.4.0  
+**Code :** https://github.com/arnaud-wissart-lab/layup-pulse
+
+---
+
+## Outillage / automatisation
+
+### RepoOps
+Socle d’automatisation pour la maintenance de dépôts GitHub : worker .NET, GitHub API, Renovate, Dependabot, Docker Compose, n8n, Aspire, reporting et supervision.
+
+Le projet expérimente également une chaîne de décisions structurées et de génération de prompts pour Codex, avec **validation humaine conservée avant toute action**.
+
+**Code :** https://github.com/arnaud-wissart-lab/repo-ops
+
+---
+
+## Autres réalisations
+
+| Projet | Type | Accès |
 |---|---|---|
-| 🏭 LayupPulse | [Version Windows 0.4.0](https://github.com/arnaud-wissart-lab/layup-pulse/releases/tag/v0.4.0) | https://github.com/arnaud-wissart-lab/layup-pulse |
-| 🚲 BikeVoyager | https://bike.arnaudwissart.fr | https://github.com/arnaud-wissart-lab/BikeVoyager |
-| 🍙 OnigiriShop | https://onigirishop.onrender.com/ | https://github.com/arnaud-wissart-lab/OnigiriShop |
-| 🎮 Tetrigular | https://tetris.arnaudwissart.fr | https://github.com/arnaud-wissart-lab/Tetrigular |
-| 📊 Proba Loto / EuroMillions | https://loto.arnaudwissart.fr | https://github.com/arnaud-wissart-lab/Proba-loto-euromillions |
-| ⚡ NVConso | *(Windows app — pas de démo web)* | https://github.com/arnaud-wissart-lab/NVConso |
+| OnigiriShop | Application e-commerce ASP.NET Core / React | [Démo](https://onigirishop.onrender.com/) · [Code](https://github.com/arnaud-wissart-lab/OnigiriShop) |
+| NVConso | Application Windows orientée suivi de consommation GPU | [Code](https://github.com/arnaud-wissart-lab/NVConso) |
+| Tetrigular | Démonstrateur front temps réel TypeScript / Canvas | [Démo](https://tetris.arnaudwissart.fr) · [Code](https://github.com/arnaud-wissart-lab/Tetrigular) |
+| Probabilités Loto / EuroMillions | Démonstrateur calcul / statistiques | [Démo](https://loto.arnaudwissart.fr) · [Code](https://github.com/arnaud-wissart-lab/Proba-loto-euromillions) |
 
 ---
 
 ## Expertise
 
-- ASP.NET Core (.NET 8/9/10), Web API
-- Front-end : TypeScript/JavaScript, React, Angular, jQuery
-- Modernisation .NET Framework → .NET (API, découplage, migrations)
-- Architecture : séparation des couches, SOLID, testabilité, patterns
-- Refactoring et réduction de dette technique
-- CI/CD : GitHub Actions, runners self-hosted
-- Docker & conteneurisation
-- Tests : unitaires, intégration, end-to-end
+- **Back-end :** C#, .NET Framework, .NET 6–10, ASP.NET Core, Web API REST, gRPC
+- **Données :** SQL Server, PostgreSQL, SQLite, Entity Framework Core, Dapper
+- **Front-end :** React, TypeScript, JavaScript, Angular, Blazor, WPF
+- **Architecture :** séparation des couches, SOLID, clean architecture, design patterns, modernisation de legacy
+- **Qualité :** tests unitaires, intégration, E2E, Playwright, non-régression, documentation
+- **DevOps :** GitHub Actions, CI/CD, Docker, Docker Compose, runners self-hosted, packaging et déploiements reproductibles
+- **Orchestration / tooling :** .NET Aspire, Renovate, Dependabot, n8n
 
 ---
 
-## ✅ Standards de delivery
+## Ma manière de travailler
 
-- Code lisible, orienté maintenabilité (naming, découpage, conventions)
-- Tests adaptés au contexte (pyramide de tests, scénarios critiques en priorité)
-- Pipelines CI/CD reproductibles (build, tests, qualité, déploiement)
-- Documentation pragmatique (run locally, architecture, décisions)
-- Objectif : livrables robustes et exploitables en production
-
----
-
-## Projets en vitrine (détails)
-
-### 🏭 LayupPulse
-
-Démonstrateur Windows .NET 10/WPF consacré à l’architecture d’une supervision
-autour d’une cellule fictive de drapage composite. L’application sépare le
-simulateur déterministe et l’interface par gRPC, borne le traitement de la
-télémétrie, persiste un historique local SQLite et produit des rapports de
-cycle.
-
-La version 0.4.0 ajoute l’aperçu paginé, l’impression Windows et l’export XPS.
-Le PDF reste disponible uniquement par une imprimante Windows compatible.
-
-LayupPulse utilise exclusivement des données simulées et ne commande aucun
-matériel réel.
-
-- Repo : https://github.com/arnaud-wissart-lab/layup-pulse
-- Version Windows : https://github.com/arnaud-wissart-lab/layup-pulse/releases/tag/v0.4.0
-
-<details>
-  <summary>Voir une capture</summary>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/layup-pulse/main/docs/screenshots/overview-running.png" alt="LayupPulse pendant un cycle simulé, avec vue 3D fictive, télémétrie et tendances" width="800" />
-  </p>
-</details>
-
----
-
-### 🚲 BikeVoyager
-Application web orientée mobilité et parcours.
-Démontre une architecture full-stack moderne (.NET + React), une API structurée, de la qualité et une CI/CD propre.
-
-Repo : https://github.com/arnaud-wissart-lab/BikeVoyager  
-Démo : https://bike.arnaudwissart.fr
-
-<details>
-  <summary>Voir des captures</summary>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/BikeVoyager/main/docs/screenshots/BikeVoyager1.png" width="800"/>    
-    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/BikeVoyager/main/docs/screenshots/BikeVoyager3.png" height="400"/>
-  </p>
-</details>
-
----
-
-### 🍙 OnigiriShop
-Application e-commerce (logique métier + back-office).
-Illustration d’une application .NET structurée, validée par tests et CI.
-
-Repo : https://github.com/arnaud-wissart-lab/OnigiriShop  
-Démo : https://onigirishop.onrender.com/
-
-<details>
-  <summary>Voir des captures</summary>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/OnigiriShop/main/docs/screenshots/onigiri2.png" width="800"/>
-    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/OnigiriShop/main/docs/screenshots/onigiri1.png" height="400"/>
-  </p>
-</details>
-
----
-
-### 🎮 Tetrigular
-Jeu Tetris-like orienté gameplay “clean” (moteur de jeu découplé, architecture lisible, CI).
-Démontre la capacité à produire une application front moderne avec de la qualité.
-
-Repo : https://github.com/arnaud-wissart-lab/Tetrigular  
-Démo : https://tetris.arnaudwissart.fr
-
-<details>
-  <summary>Voir une capture</summary>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/tetrigular/main/docs/screenshots/Animation.gif" width="600" />
-  </p>
-</details>
-
----
-
-### ⚡ NVConso
-Outil Windows de gestion/optimisation de consommation GPU.
-Montre la capacité à interfacer du matériel, modéliser des données et livrer un outil fiable.
-
-Repo : https://github.com/arnaud-wissart-lab/NVConso  
-
-<details>
-  <summary>Voir une capture</summary>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/arnaud-wissart-lab/NVConso/main/docs/screenshots/NVConso.png" width="412" height="245" />
-  </p>
-</details>
-
----
-
-### 📊 Probabilités Loto / EuroMillions
-Projet orienté calcul, ingestion de données et validation algorithmique.
-Démontre la rigueur, la structuration backend et l’automatisation.
-
-Repo : https://github.com/arnaud-wissart-lab/Proba-loto-euromillions  
-Démo : https://loto.arnaudwissart.fr
+- comprendre d’abord le besoin métier et les contraintes réelles ;
+- préférer une architecture proportionnée à la complexité effective ;
+- moderniser progressivement plutôt que réécrire sans nécessité ;
+- garder le code lisible, testable et exploitable ;
+- automatiser build, tests, audits et déploiements lorsque cela apporte un gain réel ;
+- documenter les décisions importantes et les limites connues ;
+- conserver une vision utilisateur du produit jusqu’à la livraison.
 
 ---
 
 ## Contact
 
-LinkedIn : https://www.linkedin.com/in/arnaud-wissart-67a2a065/
+**Portfolio :** https://arnaudwissart.fr  
+**LinkedIn :** https://www.linkedin.com/in/arnaud-wissart-67a2a065/  
+**Projets publics :** https://github.com/arnaud-wissart-lab
