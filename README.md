@@ -91,10 +91,10 @@ Le projet expérimente également une chaîne de décisions structurées et de g
 
 | Projet | Type | Accès |
 |---|---|---|
-| OnigiriShop | Application e-commerce ASP.NET Core / React | [Démo](https://onigirishop.onrender.com/) · [Code](https://github.com/arnaud-wissart-lab/OnigiriShop) |
-| NVConso | Application Windows orientée suivi de consommation GPU | [Code](https://github.com/arnaud-wissart-lab/NVConso) |
-| Tetrigular | Démonstrateur front temps réel TypeScript / Canvas | [Démo](https://tetris.arnaudwissart.fr) · [Code](https://github.com/arnaud-wissart-lab/Tetrigular) |
-| Probabilités Loto / EuroMillions | Démonstrateur calcul / statistiques | [Démo](https://loto.arnaudwissart.fr) · [Code](https://github.com/arnaud-wissart-lab/Proba-loto-euromillions) |
+| OnigiriShop | Application e-commerce .NET 8 / Blazor Server / Dapper / SQLite | [Démo](https://onigirishop.onrender.com/) · [Code](https://github.com/arnaud-wissart-lab/OnigiriShop) |
+| WattPilot (`NVConso`) | Utilitaire Windows .NET 10 / WPF pour suivre et limiter la puissance d’un GPU NVIDIA | [Télécharger / Code](https://github.com/arnaud-wissart-lab/NVConso) |
+| Tetrigular | Jeu Angular / TypeScript avec moteur découplé et rendu Canvas 2D | [Démo](https://tetris.arnaudwissart.fr) · [Code](https://github.com/arnaud-wissart-lab/Tetrigular) |
+| Probabilités Loto / EuroMillions | Plateforme .NET 10 / Blazor / PostgreSQL d’ingestion et de statistiques | [Démo](https://loto.arnaudwissart.fr) · [Code](https://github.com/arnaud-wissart-lab/Proba-loto-euromillions) |
 
 ---
 
