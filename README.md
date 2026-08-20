@@ -22,7 +22,7 @@ BikeVoyager est aujourd’hui mon projet public le plus complet pour illustrer u
 Points clés :
 - ASP.NET Core `.NET 10`, Minimal APIs et architecture Domain / Application / Infrastructure ;
 - React, TypeScript, Vite, Mantine et Cesium ;
-- PostgreSQL, Valhalla, Overpass, Google Drive et Microsoft Graph ;
+- Valhalla, Overpass, Google Drive et Microsoft Graph ;
 - CORS contrôlé, origin guard, cookies HttpOnly, rate limiting et headers de sécurité ;
 - xUnit, Vitest et Playwright E2E ;
 - .NET Aspire, Docker Compose et GitHub Actions ;
