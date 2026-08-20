@@ -51,24 +51,6 @@ Points clés :
 
 ---
 
-### PrivateListings
-**Application métier .NET 10 / Blazor pour communautés privées et entraide locale.**
-
-MVP fonctionnel centré sur les annonces privées, la messagerie, la modération et l’administration, avec une architecture séparant domaine, application, infrastructure et interface.
-
-Points clés :
-- .NET 10, ASP.NET Core / Blazor Web App ;
-- EF Core 10 / PostgreSQL ;
-- .NET Aspire ;
-- authentification, changement d’email et réinitialisation du mot de passe ;
-- annonces, messagerie interne, signalements, modération, back-office et audit logs ;
-- Docker Compose et CI/CD ;
-- tests unitaires, intégration PostgreSQL et E2E Playwright.
-
-**Code :** https://github.com/arnaud-wissart-lab/PrivateListings
-
----
-
 ### Orymessa
 **Produit logiciel commercial privé en préparation pour Steam.**
 
